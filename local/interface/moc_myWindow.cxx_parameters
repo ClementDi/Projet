@@ -1,0 +1,11 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/clement/Documents/5A/Projet/Code/project
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DCORRECTION
+-o
+/home/clement/Documents/5A/Projet/Code/project/src/local/interface/moc_myWindow.cxx
+/home/clement/Documents/5A/Projet/Code/project/src/local/interface/myWindow.hpp
