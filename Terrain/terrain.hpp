@@ -39,7 +39,7 @@ class terrain
     cpe::mesh_opengl mesh_terrain_opengl;
     cpe::mesh  plane_mesh_constructor(float xmin,float xmax, float ymin,float ymax,int Nj,int Ni);
     void init();
-// test git
+
 
 
 };
